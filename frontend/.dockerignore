@@ -1,0 +1,7 @@
+# .dockerignore
+.git
+.idea
+.vscode
+.env
+node_modules
+build 
